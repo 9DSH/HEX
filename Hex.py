@@ -18,7 +18,7 @@ from SheetsManager import GoogleManager
 
 
 # Constants
-TOKEN: Final = '7947013449:AAHFsh9-LbQSYKoBu8DIBWqEma8Lnw_fPaE'  # TELEGRAM TOKEN
+TOKEN: Final = 'Token'  # TELEGRAM TOKEN
 # Create a lock instance
 
 def generate_csv(csv_filename: str) -> str:
